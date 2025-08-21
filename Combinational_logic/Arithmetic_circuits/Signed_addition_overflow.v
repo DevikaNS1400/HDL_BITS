@@ -16,7 +16,5 @@ module top_module (
     end
     assign s=sum;
     assign overflow=cout[8]^cout[7];
-    // assign s = ...
-    // assign overflow = ...
 
 endmodule
